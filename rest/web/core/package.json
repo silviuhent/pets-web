@@ -54,7 +54,7 @@
     "@ckeditor/ckeditor5-source-editing": "~34.0.0",
     "@ckeditor/ckeditor5-special-characters": "~34.0.0",
     "@ckeditor/ckeditor5-table": "~34.0.0",
-    "ckeditor5": "~34.0.0"
+    "ckeditor5": "~36.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
